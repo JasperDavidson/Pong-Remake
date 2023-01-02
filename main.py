@@ -1,5 +1,5 @@
 import pygame, sys
-import PyGameExperiments
+import PongClasses
 from pygame.locals import *
 pygame.init()
 
